@@ -1,10 +1,12 @@
 # Tutorial: Learn GitHub by building a website
 
-To follow the tutorial, see [tutorial instructions](/tutorial-instructions/github-tutorial.md).
+**To follow the tutorial, see [tutorial instructions](/tutorial-instructions/github-tutorial.md).**
+
+---
 
 ## GitHub for Documentation
 
-This tutorial was originally presented at the GitHub for Documentation workshop from [Write the Docs - San Francisco](https://www.meetup.com/Write-the-Docs-SF/events/234679051/) on October 27, 2016. The tutorial was later adapted into Mapzen's documentation set.
+This tutorial was originally presented at the GitHub for Documentation workshop from [Write the Docs - San Francisco](https://www.meetup.com/Write-the-Docs-SF/events/234679051/) on October 27, 2016. The tutorial was later adapted into Mapzen's documentation set, and then updated to the presenter's account following Mapzen's closure.
 
 ### Original workshop information
 
