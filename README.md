@@ -1,6 +1,6 @@
 # Tutorial: Learn GitHub by building a website
 
-This repository contains the files used with Mapzen's GitHub tutorial at https://mapzen.com/documentation/guides/github-tutorial/.
+To follow the tutorial, see [tutorial instructions](/tutorial-instructions/github-tutorial.md).
 
 ## GitHub for Documentation
 
@@ -14,8 +14,8 @@ GitHub enables people to collaborate on projects, and many organizations use it 
 
 In this hands-on workshop, you will:
 
-- Get an introduction to the Git version control system, terminology, and the GitHub workflow. 
-- Create a simple website with GitHub Pages and use GitHub for documentation. 
+- Get an introduction to the Git version control system, terminology, and the GitHub workflow.
+- Create a simple website with GitHub Pages and use GitHub for documentation.
 - Learn how you can support open-source projects by contributing documentation.
 
 The session is designed for beginners to GitHub, but all levels are invited.
