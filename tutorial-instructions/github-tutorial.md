@@ -31,7 +31,7 @@ You can review the [GitHub Glossary](https://help.github.com/articles/github-glo
 To get started, you need to make a copy of the repository containing the tutorial data files. You do not have write permissions for the source version, but making a copy into your own GitHub account allows you to edit them. This is known as creating a _fork_, or _forking a repository_.
 
 1. Open a browser to https://github.com and sign in with your account.
-2. Navigate to https://github.com/mapzen/write-the-docs-tutorial, which contains some files to get you started.
+2. Navigate to https://github.com/rmglennon/write-the-docs-tutorial, which contains some files to get you started.
 3. Click the `Fork` button in the top right corner of the page.
 
     ![Fork a repository button](images/fork-repo-button.png)
@@ -224,7 +224,7 @@ _Tip: If you want to remove your GitHub Pages site or delete the repository, ope
 
 Now that you are familiar with using GitHub, you can use this same workflow to collaborate on the many open-source projects that are hosted there.
 
-Documentation can be an easy way to get started contributing to a project. For example, if you find a typographic error on a documentation page, you can fork the repository and suggest a fix. In fact, if you click the `Edit this file` button on the file you want to change, GitHub automatically creates a fork for you and opens a pull request on the original project.
+Documentation can be an easy way to get started contributing to a project. For example, if you find a typographic error on a documentation page, you can fork the repository and suggest a fix. In most cases, GitHub automatically creates a fork for you and opens a pull request on the original project.
 
 If you find a bug or have suggestions for a project but are unable or do not want to fix them yourself, report an _issue_ in the repository to notify the contributors. You can also use the issues list to find known problems that you may be able to assist with, which are sometimes tagged with `help wanted`.
 
