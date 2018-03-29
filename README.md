@@ -2,6 +2,8 @@
 
 **To follow the tutorial, see [tutorial instructions](/tutorial-instructions/github-tutorial.md).**
 
+**To view the video of the original presentation, see https://www.youtube.com/watch?v=812E14gFgb4.**
+
 ---
 
 ## GitHub for Documentation
